@@ -1,0 +1,598 @@
+{
+    "Vallensb\u00e6k": [
+        "Br\u00f8ndby",
+        "Albertslund",
+        "Ish\u00f8j",
+        "H\u00f8je-Taastrup"
+    ],
+    "Frederiksberg": [
+        "K\u00f8benhavn"
+    ],
+    "R\u00f8dovre": [
+        "Glostrup",
+        "Br\u00f8ndby",
+        "Herlev",
+        "Hvidovre",
+        "K\u00f8benhavn"
+    ],
+    "Glostrup": [
+        "R\u00f8dovre",
+        "Br\u00f8ndby",
+        "Albertslund",
+        "Herlev",
+        "Ballerup"
+    ],
+    "Br\u00f8ndby": [
+        "Vallensb\u00e6k",
+        "R\u00f8dovre",
+        "Glostrup",
+        "Albertslund",
+        "Hvidovre"
+    ],
+    "Albertslund": [
+        "Vallensb\u00e6k",
+        "Glostrup",
+        "Br\u00f8ndby",
+        "H\u00f8je-Taastrup",
+        "Ballerup",
+        "Egedal"
+    ],
+    "Gladsaxe": [
+        "Herlev",
+        "Fures\u00f8",
+        "Lyngby-Taarb\u00e6k",
+        "Gentofte",
+        "K\u00f8benhavn"
+    ],
+    "Herlev": [
+        "R\u00f8dovre",
+        "Glostrup",
+        "Gladsaxe",
+        "Fures\u00f8",
+        "Ballerup",
+        "K\u00f8benhavn"
+    ],
+    "Ish\u00f8j": [
+        "Vallensb\u00e6k",
+        "H\u00f8je-Taastrup",
+        "Greve"
+    ],
+    "Hvidovre": [
+        "R\u00f8dovre",
+        "Br\u00f8ndby",
+        "K\u00f8benhavn"
+    ],
+    "Fures\u00f8": [
+        "Gladsaxe",
+        "Herlev",
+        "Lyngby-Taarb\u00e6k",
+        "Aller\u00f8d",
+        "Ballerup",
+        "Egedal",
+        "Rudersdal"
+    ],
+    "Lyngby-Taarb\u00e6k": [
+        "Gladsaxe",
+        "Fures\u00f8",
+        "Gentofte",
+        "Rudersdal"
+    ],
+    "H\u00f8je-Taastrup": [
+        "Vallensb\u00e6k",
+        "Albertslund",
+        "Ish\u00f8j",
+        "Greve",
+        "Egedal",
+        "Roskilde"
+    ],
+    "Aller\u00f8d": [
+        "Fures\u00f8",
+        "Hiller\u00f8d",
+        "H\u00f8rsholm",
+        "Fredensborg",
+        "Egedal",
+        "Rudersdal",
+        "Frederikssund"
+    ],
+    "Gentofte": [
+        "Gladsaxe",
+        "Lyngby-Taarb\u00e6k",
+        "K\u00f8benhavn"
+    ],
+    "Ballerup": [
+        "Glostrup",
+        "Albertslund",
+        "Herlev",
+        "Fures\u00f8",
+        "Egedal"
+    ],
+    "Hiller\u00f8d": [
+        "Aller\u00f8d",
+        "Fredensborg",
+        "Gribskov",
+        "Halsn\u00e6s",
+        "Frederikssund"
+    ],
+    "H\u00f8rsholm": [
+        "Aller\u00f8d",
+        "Fredensborg",
+        "Rudersdal"
+    ],
+    "Greve": [
+        "Ish\u00f8j",
+        "H\u00f8je-Taastrup",
+        "Solr\u00f8d",
+        "Roskilde"
+    ],
+    "Drag\u00f8r": [
+        "T\u00e5rnby"
+    ],
+    "Fredensborg": [
+        "Aller\u00f8d",
+        "Hiller\u00f8d",
+        "H\u00f8rsholm",
+        "Gribskov",
+        "Helsing\u00f8r"
+    ],
+    "Solr\u00f8d": [
+        "Greve",
+        "K\u00f8ge",
+        "Roskilde"
+    ],
+    "Ringsted": [
+        "Sor\u00f8",
+        "K\u00f8ge",
+        "Faxe",
+        "Lejre",
+        "Holb\u00e6k",
+        "N\u00e6stved"
+    ],
+    "Gribskov": [
+        "Hiller\u00f8d",
+        "Fredensborg",
+        "Helsing\u00f8r",
+        "Halsn\u00e6s"
+    ],
+    "Egedal": [
+        "Albertslund",
+        "Fures\u00f8",
+        "H\u00f8je-Taastrup",
+        "Aller\u00f8d",
+        "Ballerup",
+        "Roskilde",
+        "Frederikssund"
+    ],
+    "Rudersdal": [
+        "Fures\u00f8",
+        "Lyngby-Taarb\u00e6k",
+        "Aller\u00f8d",
+        "H\u00f8rsholm"
+    ],
+    "Helsing\u00f8r": [
+        "Fredensborg",
+        "Gribskov"
+    ],
+    "Sor\u00f8": [
+        "Ringsted",
+        "Holb\u00e6k",
+        "N\u00e6stved",
+        "Slagelse",
+        "Kalundborg"
+    ],
+    "Odder": [
+        "Skanderborg",
+        "Aarhus",
+        "Horsens",
+        "Sams\u00f8"
+    ],
+    "Stevns": [
+        "K\u00f8ge",
+        "Faxe"
+    ],
+    "K\u00f8ge": [
+        "Solr\u00f8d",
+        "Ringsted",
+        "Stevns",
+        "Faxe",
+        "Lejre",
+        "Roskilde"
+    ],
+    "Skanderborg": [
+        "Odder",
+        "Favrskov",
+        "Silkeborg",
+        "Aarhus",
+        "Horsens"
+    ],
+    "Halsn\u00e6s": [
+        "Hiller\u00f8d",
+        "Gribskov",
+        "Frederikssund"
+    ],
+    "Billund": [
+        "Ikast-Brande",
+        "Vejen",
+        "Herning",
+        "Vejle",
+        "Varde",
+        "Ringk\u00f8bing-Skjern"
+    ],
+    "Favrskov": [
+        "Skanderborg",
+        "Silkeborg",
+        "Syddjurs",
+        "Aarhus",
+        "Randers",
+        "Viborg"
+    ],
+    "Silkeborg": [
+        "Skanderborg",
+        "Favrskov",
+        "Ikast-Brande",
+        "Horsens",
+        "Viborg"
+    ],
+    "Fan\u00f8": [
+        "Esbjerg"
+    ],
+    "Fredericia": [
+        "Vejle",
+        "Kolding",
+        "Middelfart"
+    ],
+    "Odense": [
+        "Nordfyns",
+        "Assens",
+        "Kerteminde",
+        "Faaborg-Midtfyn"
+    ],
+    "Faxe": [
+        "Ringsted",
+        "Stevns",
+        "K\u00f8ge",
+        "N\u00e6stved"
+    ],
+    "Nyborg": [
+        "Kerteminde",
+        "Svendborg",
+        "Faaborg-Midtfyn",
+        "Slagelse"
+    ],
+    "Lejre": [
+        "Ringsted",
+        "K\u00f8ge",
+        "Roskilde",
+        "Holb\u00e6k",
+        "Frederikssund"
+    ],
+    "Ikast-Brande": [
+        "Billund",
+        "Silkeborg",
+        "Herning",
+        "Vejle",
+        "Hedensted",
+        "Horsens",
+        "Viborg"
+    ],
+    "Lemvig": [
+        "Struer",
+        "Holstebro"
+    ],
+    "Struer": [
+        "Lemvig",
+        "Holstebro",
+        "Thisted"
+    ],
+    "Norddjurs": [
+        "Syddjurs",
+        "Randers"
+    ],
+    "\u00C6r\u00f8": [
+        "S\u00f8nderborg",
+        "Svendborg",
+        "Langeland"
+    ],
+    "Hj\u00f8rring": [
+        "Br\u00f8nderslev",
+        "Jammerbugt",
+        "Frederikshavn"
+    ],
+    "Sams\u00f8": [
+        "Odder",
+        "Kalundborg"
+    ],
+    "Roskilde": [
+        "H\u00f8je-Taastrup",
+        "Greve",
+        "Solr\u00f8d",
+        "Egedal",
+        "K\u00f8ge",
+        "Lejre",
+        "Frederikssund"
+    ],
+    "Syddjurs": [
+        "Favrskov",
+        "Norddjurs",
+        "Aarhus",
+        "Randers"
+    ],
+    "Br\u00f8nderslev": [
+        "Hj\u00f8rring",
+        "Jammerbugt",
+        "Frederikshavn",
+        "Aalborg"
+    ],
+    "Aarhus": [
+        "Odder",
+        "Skanderborg",
+        "Favrskov",
+        "Syddjurs"
+    ],
+    "Vejen": [
+        "Billund",
+        "Vejle",
+        "Kolding",
+        "Esbjerg",
+        "Varde",
+        "Haderslev"
+    ],
+    "Herning": [
+        "Billund",
+        "Ikast-Brande",
+        "Holstebro",
+        "Viborg",
+        "Ringk\u00f8bing-Skjern"
+    ],
+    "Vejle": [
+        "Billund",
+        "Fredericia",
+        "Ikast-Brande",
+        "Vejen",
+        "Hedensted",
+        "Kolding"
+    ],
+    "Hedensted": [
+        "Ikast-Brande",
+        "Vejle",
+        "Horsens"
+    ],
+    "Odsherred": [
+        "Holb\u00e6k",
+        "Kalundborg"
+    ],
+    "Randers": [
+        "Favrskov",
+        "Norddjurs",
+        "Syddjurs",
+        "Viborg",
+        "Mariagerfjord"
+    ],
+    "Holstebro": [
+        "Lemvig",
+        "Struer",
+        "Herning",
+        "Viborg",
+        "Skive",
+        "Ringk\u00f8bing-Skjern"
+    ],
+    "T\u00e5rnby": [
+        "Drag\u00f8r",
+        "K\u00f8benhavn"
+    ],
+    "Horsens": [
+        "Odder",
+        "Skanderborg",
+        "Silkeborg",
+        "Ikast-Brande",
+        "Hedensted"
+    ],
+    "T\u00f8nder": [
+        "Aabenraa",
+        "Esbjerg",
+        "Haderslev"
+    ],
+    "K\u00f8benhavn": [
+        "Frederiksberg",
+        "R\u00f8dovre",
+        "Gladsaxe",
+        "Herlev",
+        "Hvidovre",
+        "Gentofte",
+        "T\u00e5rnby"
+    ],
+    "Aabenraa": [
+        "T\u00f8nder",
+        "S\u00f8nderborg",
+        "Haderslev"
+    ],
+    "Jammerbugt": [
+        "Hj\u00f8rring",
+        "Br\u00f8nderslev",
+        "Vesthimmerlands",
+        "Thisted",
+        "Aalborg"
+    ],
+    "Holb\u00e6k": [
+        "Ringsted",
+        "Sor\u00f8",
+        "Lejre",
+        "Odsherred",
+        "Kalundborg"
+    ],
+    "Nordfyns": [
+        "Odense",
+        "Assens",
+        "Middelfart"
+    ],
+    "Langeland": [
+        "Svendborg",
+        "\u00e6r\u00f8",
+        "Lolland"
+    ],
+    "Assens": [
+        "Odense",
+        "Nordfyns",
+        "Faaborg-Midtfyn",
+        "Middelfart"
+    ],
+    "Kerteminde": [
+        "Odense",
+        "Nyborg",
+        "Faaborg-Midtfyn"
+    ],
+    "Kolding": [
+        "Fredericia",
+        "Vejen",
+        "Vejle",
+        "Haderslev"
+    ],
+    "Vesthimmerlands": [
+        "Jammerbugt",
+        "Viborg",
+        "Mariagerfjord",
+        "Aalborg",
+        "Rebild"
+    ],
+    "Esbjerg": [
+        "Vejen",
+        "T\u00f8nder",
+        "Varde",
+        "Haderslev",
+        "Fan\u00f8"
+    ],
+    "Mors\u00f8": [
+        "Thisted",
+        "Skive"
+
+    ],
+    "Svendborg": [
+        "Nyborg",
+        "Faaborg-Midtfyn",
+        "Langeland",
+        "\u00e6r\u00f8"
+    ],
+    "Faaborg-Midtfyn": [
+        "Odense",
+        "Nyborg",
+        "Assens",
+        "Kerteminde",
+        "Svendborg"
+    ],
+    "Middelfart": [
+        "Nordfyns",
+        "Assens",
+        "Fredericia"
+    ],
+    "Varde": [
+        "Billund",
+        "Vejen",
+        "Esbjerg",
+        "Ringk\u00f8bing-Skjern"
+    ],
+    "Thisted": [
+        "Struer",
+        "Jammerbugt"
+    ],
+    "Lolland": [
+        "Guldborgsund"
+    ],
+    "Viborg": [
+        "Favrskov",
+        "Silkeborg",
+        "Ikast-Brande",
+        "Herning",
+        "Randers",
+        "Holstebro",
+        "Vesthimmerlands",
+        "Mariagerfjord",
+        "Skive"
+    ],
+    "Frederikshavn": [
+        "Hj\u00f8rring",
+        "Br\u00f8nderslev",
+        "L\u00e6s\u00f8"
+    ],
+    "Mariagerfjord": [
+        "Randers",
+        "Vesthimmerlands",
+        "Viborg",
+        "Aalborg",
+        "Rebild"
+    ],
+    "L\u00e6s\u00f8": [
+        "Frederikshavn"
+    ],
+    "N\u00e6stved": [
+        "Ringsted",
+        "Sor\u00f8",
+        "Faxe",
+        "Slagelse",
+        "Vordingborg"
+    ],
+    "Skive": [
+        "Holstebro",
+        "Viborg",
+        "Mors\u00f8"
+    ],
+    "Slagelse": [
+        "Sor\u00f8",
+        "N\u00e6stved",
+        "Kalundborg",
+        "Nyborg"
+    ],
+    "Kalundborg": [
+        "Sor\u00f8",
+        "Odsherred",
+        "Holb\u00e6k",
+        "Slagelse",
+        "Sams\u00f8"
+    ],
+    "S\u00f8nderborg": [
+        "Aabenraa",
+        "\u00e6r\u00f8"
+    ],
+    "Frederikssund": [
+        "Aller\u00f8d",
+        "Hiller\u00f8d",
+        "Egedal",
+        "Halsn\u00e6s",
+        "Lejre",
+        "Roskilde"
+    ],
+    "Haderslev": [
+        "Vejen",
+        "T\u00f8nder",
+        "Aabenraa",
+        "Kolding",
+        "Esbjerg"
+    ],
+    "Ringk\u00f8bing-Skjern": [
+        "Billund",
+        "Herning",
+        "Holstebro",
+        "Varde"
+    ],
+    "Aalborg": [
+        "Br\u00f8nderslev",
+        "Jammerbugt",
+        "Vesthimmerlands",
+        "Mariagerfjord",
+        "Rebild"
+    ],
+    "Guldborgsund": [
+        "Lolland",
+        "Vordingborg"
+    ],
+    "Vordingborg": [
+        "N\u00e6stved",
+        "Guldborgsund"
+    ],
+    "Bornholm": [
+
+    ],
+    "Rebild": [
+        "Vesthimmerlands",
+        "Mariagerfjord",
+        "Aalborg"
+    ]
+}
